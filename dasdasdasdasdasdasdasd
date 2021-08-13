@@ -1,0 +1,49 @@
+[33mcommit 53e28a8dab327ac08cf3d2f2c0f123d369aeb113[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 551dce0 4968919
+Author: anldv <anldv@edsolabs.com>
+Date:   Sat Aug 14 00:53:25 2021 +0700
+
+    Merge branch 'master' of https://github.com/Luudinhvietan1123/Learning-git
+
+[33mcommit 49689192ca7f681ebcdd1fa0c9186af6bc325fa3[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Luudinhvietan1123 <62169932+Luudinhvietan1123@users.noreply.github.com>
+Date:   Sat Aug 14 00:49:23 2021 +0700
+
+    Create README.md
+
+[33mcommit 551dce011db790033b24418f8bbbc6793cf32497[m
+Author: anldv <anldv@edsolabs.com>
+Date:   Sat Aug 14 00:05:34 2021 +0700
+
+    adding new sample text file, this file was created by me in cmd
+
+[33mcommit f04af739d6d6445922421e094cb8398c3748e528[m
+Merge: 6088cc6 303f9de
+Author: anldv <anldv@edsolabs.com>
+Date:   Fri Aug 13 23:48:49 2021 +0700
+
+    Merge branch 'master' of https://github.com/Luudinhvietan1123/spring-boot-learning
+
+[33mcommit 6088cc623a043e5708070911e1c9398cc21d50cd[m
+Author: anldv <anldv@edsolabs.com>
+Date:   Wed Aug 11 18:43:37 2021 +0700
+
+    refactor the text content
+
+[33mcommit 2f20ae45d34f85d87f14dd060ad38c8783b8b1c2[m
+Author: anldv <anldv@edsolabs.com>
+Date:   Wed Aug 11 18:39:32 2021 +0700
+
+    adding new line of text
+
+[33mcommit 538c6a42f5aa5d6c31b1b5d96ed21591a1b5bbbe[m
+Author: anldv <anldv@edsolabs.com>
+Date:   Wed Aug 11 18:18:46 2021 +0700
+
+    add note-git.txt file
+
+[33mcommit 303f9de36f41d8e7394b255908fafed1da1689da[m
+Author: việt Ân <luudinhvietan1123@gmail.com>
+Date:   Thu Jul 29 17:27:39 2021 +0700
+
+    fresh
