@@ -1,3 +1,5 @@
 hello from branch "feature-a"
 
-now, I open this in bracnh "feature-xyz", hi there, its me.
+now, I open this in branch "feature-xyz", hi there, its me.
+
+Now I edit this file in server git on branch "feature-xyz"
