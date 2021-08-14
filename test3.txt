@@ -1,5 +1,8 @@
 hello from branch "feature-a"
 
-now, I open this in bracnh "feature-xyz", hi there, its me.
+now, I open this in branch "feature-xyz", hi there, its me.
+
+Now I edit this file in server git on branch "feature-xyz"
+
 
 Change some thing in local, this is totally different with git server
